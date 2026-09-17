@@ -3,6 +3,7 @@
   ["/ai [message]", "[AI RES]", "Get answers from AI bot"],
   ["ls", "[dir]", "List directory contents"],
   ["cd", "[dir]", "Change directory"],
+  ["DSA", "", "Shows the DSA/CP profile"],
   ["cat", "[file]", "Print file content"],
   ["blogs", "[file]", "List and read tech articles & blogs"],
   ["pwd", "", "Print working directory"],

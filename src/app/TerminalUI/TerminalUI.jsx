@@ -11,7 +11,6 @@ import { Header } from "../components/Header";
 import { TerminalInput } from "../components/TerminalInput";
 import { TERMINALBODY } from "../components/TerminalMainBody";
 import Error from "next/error";
-import { FaLeaf } from "react-icons/fa";
 
 export function TerminalPortfolio() {
   const [currentPath, setCurrentPath] = useState(["~"]);
@@ -76,6 +75,7 @@ export function TerminalPortfolio() {
       "sound",
       "sudo",
       "/ai",
+      "dsa",
       ...NAVBAR_COMMANDS,
       ...availableFiles,
     ];
@@ -289,6 +289,13 @@ export function TerminalPortfolio() {
         newHistory.push({
           type: "rich",
           text: FILE_SYSTEM["~"].contents["skills.txt"].content,
+        });
+        break;
+
+      case "dsa":
+        newHistory.push({
+          type: "rich",
+          text: FILE_SYSTEM["~"].contents["dsa.txt"].content,
         });
         break;
 

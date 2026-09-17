@@ -12,8 +12,9 @@
       },
       "contact.txt": {
         "type": "file",
-        "content": "EMAIL    : ishan@example.com\nGITHUB   : github.com/ishan-jaiswal\nLINKEDIN : linkedin.com/in/ishan-jaiswal\nTWITTER  : @ishan_dev"
+        "content": "# Contact\n// LET'S CONNECT\n\nEMAIL      : ishanj2024@gmail.com\nGITHUB     : github.com/Ishan-cod\nLINKEDIN   : www.linkedin.com/in/ishan-jaiswal-178b71313/\n\nSTATUS     : {green}OPEN TO OPPORTUNITIES{/green}"
       },
+
       "projects": {
         "type": "dir",
         "contents": {
@@ -49,6 +50,10 @@
       "certifications.txt": {
         "type": "file",
         "content": "• Codeforces Pupil Rating Rank\n• Smart India Hackathon National Finalist"
+      },
+      "dsa.txt": {
+        "type": "file",
+        "content": "# DSA & Competitive Programming {yellow}[ Problem Solving ]{/yellow}\n\nCompetitive programmer focused on algorithms, data structures, and contest problem solving across major coding platforms. {green}51 contests{/green} attended with {cyan}1000+ problems solved{/cyan} and {yellow}294 active days{/yellow}.\n\n{yellow}LEETCODE{/yellow}  Rating: {green}1777{/green}  ·  Global Rank: 80,698  ·  Top: {cyan}9.33%{/cyan}\n{yellow}CODECHEF{/yellow}    Rating: {green}1541 · 2★{/green}  ·  Global Rank: 21,157  ·  Contests: 26\n{yellow}CODEFORCE{/yellow}    Rating: {cyan}1237{/cyan}  ·  Contests: 21  ·  Max Streak: {green}18 days{/green}\n\nDSA           : {green}286 solved{/green}\nEASY          : {green}116{/green}   MEDIUM: {yellow}161{/yellow}   HARD: {red}9{/red}\n\nLANGUAGE      : {cyan}C++{/cyan}\n\nSTATUS        : {green}CONSISTENTLY GRINDING{/green}"
       }
     }
   }
