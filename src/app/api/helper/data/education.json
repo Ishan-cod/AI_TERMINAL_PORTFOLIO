@@ -1,0 +1,25 @@
+{
+  "education": {
+    "data": [
+      {
+        "degree": "B.Tech in Computer Science and Engineering",
+        "institution": "Indian Institute of Information Technology, Bhopal",
+        "start_year": 2024,
+        "end_year": 2028,
+        "cgpa": "9.14/10",
+        "highlights": [
+          "Among the top 3 students in the batch academically",
+          "Strong focus on Data Structures and Algorithms",
+          "Coursework and technical foundation across Object-Oriented Programming, System Design, and Computer Networks"
+        ]
+      }
+    ],
+    "note": "Ishan is pursuing a B.Tech in Computer Science and Engineering at IIIT Bhopal.",
+    "guidance": "Do not invent academic achievements, coursework, grades, or dates beyond the information explicitly provided."
+  },
+  "certifications": {
+    "data": [],
+    "note": "Ishan currently does not list any professional certifications on his portfolio.",
+    "guidance": "Do not invent or infer certifications."
+  }
+}

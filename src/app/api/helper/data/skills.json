@@ -1,0 +1,16 @@
+{
+  "skills": {
+    "frontend": ["React", "Next.js", "TypeScript", "Tailwind CSS", "Redux"],
+    "backend": [
+      "Node.js",
+      "Express",
+      "Python",
+      "FastAPI",
+      "PostgreSQL",
+      "MongoDB"
+    ],
+    "ml_ai": ["PyTorch", "OpenAI API", "LangChain", "Pandas", "scikit-learn"],
+    "devops": ["Docker", "AWS", "GitHub Actions", "Vercel"],
+    "design": ["Figma", "UI/UX prototyping"]
+  }
+}

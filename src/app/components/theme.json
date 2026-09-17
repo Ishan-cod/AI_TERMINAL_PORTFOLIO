@@ -1,0 +1,38 @@
+{
+  "matrix": {
+    "bgHex": "#050a08",
+    "bg": "bg-[#050a08]",
+    "text": "text-emerald-400", 
+    "prompt": "text-cyan-400",
+    "border": "border-emerald-500/25",
+    "accent": "text-emerald-300",
+    "glow": "shadow-[0_0_25px_-5px_rgba(16,185,129,0.35)]"
+  },
+  "dracula": {
+    "bgHex": "#1e1f29",
+    "bg": "bg-[#1e1f29]",
+    "text": "text-[#f8f8f2]",
+    "prompt": "text-[#ff79c6]",
+    "border": "border-[#6272a4]/40",
+    "accent": "text-[#bd93f9]",
+    "glow": "shadow-[0_0_25px_-5px_rgba(189,147,249,0.35)]"
+  },
+  "cyberpunk": {
+    "bgHex": "#0a0014",
+    "bg": "bg-[#0a0014]",
+    "text": "text-[#00f5d4]",
+    "prompt": "text-[#f72585]",
+    "border": "border-[#f72585]/40",
+    "accent": "text-[#f72585]",
+    "glow": "shadow-[0_0_25px_-5px_rgba(247,37,133,0.4)]"
+  },
+  "nord": {
+    "bgHex": "#242933",
+    "bg": "bg-[#242933]",
+    "text": "text-[#eceff4]",
+    "prompt": "text-[#88c0d0]",
+    "border": "border-[#4c566a]/60",
+    "accent": "text-[#81a1c1]",
+    "glow": "shadow-[0_0_25px_-5px_rgba(136,192,208,0.35)]"
+  }
+}

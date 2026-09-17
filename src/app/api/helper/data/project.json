@@ -1,0 +1,64 @@
+{
+  "projects": [
+    {
+      "id": "ai-vue",
+      "title": "AI-VUE",
+      "description": "An AI-powered mock interview platform that helps users practice interviews and receive AI-driven feedback.",
+      "category": "ai",
+      "tech_stack": ["Next.js", "React", "LangChain.js", "MongoDB"],
+      "live_url": "https://ai-vue-sand.vercel.app",
+      "github_url": "https://github.com/Ishan-cod/AI_INTERVIEWEE",
+      "year": 2025,
+      "featured": true
+    },
+    {
+      "id": "neermitra",
+      "title": "NEERMITRA",
+      "description": "An AI-powered groundwater assistant that helps users query and understand groundwater resource information from the INGRES system.",
+      "category": "ai",
+      "tech_stack": ["Next.js", "FastAPI", "Python", "LangChain"],
+      "live_url": "https://jalsaarthi.vercel.app",
+      "github_url": "https://github.com/Ishan-cod/nxt_app",
+      "year": 2025,
+      "featured": true
+    },
+    {
+      "id": "varta-raksha",
+      "title": "Varta Raksha",
+      "description": "An AI-powered voice analysis system designed to detect deepfake voices, analyze scam-related audio content, and perform voice similarity and recognition tasks.",
+      "category": "ai",
+      "tech_stack": [
+        "Python",
+        "FastAPI",
+        "Whisper",
+        "OpenCV",
+        "Hugging Face",
+        "Ollama",
+        "LangChain"
+      ],
+      "live_url": "Not yet deployed",
+      "github_url": "https://github.com/Ishan-cod/VartaRaksha",
+      "year": 2026,
+      "featured": true
+    },
+    {
+      "id": "error-battle",
+      "title": "Error Battle",
+      "description": "A real-time competitive programming platform for 1v1 and 1vN coding battles, integrating Codeforces to assign problems and synchronize matches.",
+      "category": "web",
+      "tech_stack": [
+        "Next.js",
+        "React",
+        "Node.js",
+        "Express.js",
+        "MongoDB",
+        "WebSockets",
+        "Codeforces API"
+      ],
+      "live_url": "https://errorbattle.vercel.app",
+      "github_url": "https://github.com/Ishan-cod/1v1cfbattle",
+      "year": 2026,
+      "featured": true
+    }
+  ]
+}

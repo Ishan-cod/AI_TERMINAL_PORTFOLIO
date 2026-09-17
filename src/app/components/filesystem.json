@@ -1,0 +1,55 @@
+{
+  "~": {
+    "type": "dir",
+    "contents": {
+      "about.txt": {
+        "type": "file",
+        "content": "NAME : {green}Ishan Jaiswal{/green}\n#: {cyan}WEBDEV and a bit of AIML{/cyan}\nI love building projects which {green}looks complex{/green}, though most of the time I just {yellow}quit it!{/yellow} I am also into {cyan}CP and DSA{/cyan} and have solved about {green}1000+ questions{/green}. I primarily code in {magenta}C++{/magenta} and {green}JavaScript{/green} for development\n\nI {yellow}belive in making errors{/yellow} so that {cyan}AI could solve it.{/cyan}\nI cannot learn everything before building anything or working on anything, but I can learn and use them quickly, \n{yellow}Yep!! I can do it.{/yellow}"
+      },
+      "skills.txt": {
+        "type": "file",
+        "content": "MAIN WEAPON : {green}C++{/green}, JavaScript, TypeScript, Python, HTML/CSS\nBUILD MODE   : {cyan}React{/cyan}, Next.js, Node.js, Express, FastAPI, Tailwind\nAI EXPERIMENT : {magenta}LangChain{/magenta}, Gemini, LLM Agents, Prompt Engineering\nREAL-TIME    : {yellow}WebSockets{/yellow}, Socket.io, REST APIs, JWT, Webhooks\nDATABASE     : MongoDB, Mongoose\nDEPLOY       : Git, GitHub, Vercel, Hugging Face, Postman\nCURRENTLY    : {green}Building things → breaking things → fixing things{/green}"
+      },
+      "contact.txt": {
+        "type": "file",
+        "content": "EMAIL    : ishan@example.com\nGITHUB   : github.com/ishan-jaiswal\nLINKEDIN : linkedin.com/in/ishan-jaiswal\nTWITTER  : @ishan_dev"
+      },
+      "projects": {
+        "type": "dir",
+        "contents": {
+          "error-battle.md": {
+            "type": "file",
+            "content": "# Error-Battle\n// REAL-TIME CP DUELS\n\nA multiplayer competitive-programming arena built around Codeforces.\n{green}1v1{/green} / {cyan}1vN{/cyan} battles with room synchronization, live chat,\nand problem assignment based on what players actually want to solve.\n\nSTACK   : Next.js / Node.js / Socket.io / MongoDB\nSTATUS  : {green}100+ users → 10K+ interactions{/green}"
+          },
+
+          "neermitra.md": {
+            "type": "file",
+            "content": "# NEERMITRA AI\n// GROUNDWATER × GENAI\n\nBuilt for Smart India Hackathon to make government groundwater data\nactually understandable. Users ask naturally; {magenta}Gemini{/magenta} interprets it,\n{cyan}LangChain + FastAPI{/cyan} fetch the right INGRES data, and the system turns it\nback into a human-friendly answer.\n\nSTACK   : Next.js / FastAPI / LangChain / Gemini / INGRES\nSTATUS  : {yellow}Hackathon build → deployed MVP{/yellow}"
+          },
+
+          "ai-vue.md": {
+            "type": "file",
+            "content": "# AI-Vue\n// AI-POWERED MOCK INTERVIEWS\n\nStarted with a simple question: what if an interview could actually adapt\nto the person answering it? AI-Vue uses an LLM pipeline to generate questions,\nevaluate responses, and turn conversations into structured feedback.\n\nSTACK   : Next.js / LangChain.js / MongoDB / JWT\n"
+          },
+
+          "varta-raksha.md": {
+            "type": "file",
+            "content": "# Varta-Raksha\n// VOICE × AI × SECURITY\n\nAn AI voice-analysis pipeline built to examine whether a voice is synthetic\nand understand the context behind the conversation. Combines voice detection,\nspeaker matching, transcription, and scam-context analysis into one workflow.\n\nSTACK   : Python / FastAPI / Whisper / PyTorch / Ollama\n"
+          }
+        }
+      },
+      "experience.txt": {
+        "type": "file",
+        "content": "No internships yet — so I build my own.\n\n {red}ERROR-BATTLE{/red} : Started from a friend's idea. I noticed CP-loving students had no simple way to\n               compete 1v1 on problems they actually liked, so I built it. It reached {green}100+ real users within 2 days{/green}, which quickly led me to build and deploy a {cyan}Socket.io{/cyan} chat system.\n\n {red}NEER-MITRA{/red}   : Built for Smart India Hackathon to make groundwater data easier to understand.\n               Combined {cyan}FastAPI + LangChain{/cyan} + {magenta}Gemini{/magenta} with INGRES data and a human fallback\n               for low-confidence answers.\n\n{red}AI-VUE{/red} : Built an AI mock-interview platform where {magenta}LangChain.js{/magenta} handles question generation\n               and evaluation, with {green}MongoDB + JWT{/green} powering persistent multi-user sessions.\n\nAPPROACH: I just love building \n\n 1. {magenta} I have lead SIH team which qualified the {/magenta}{yellow} Hack-O-Sprint 3.0 {/yellow}{magenta}with top-10 rank wherein we build NEERMITRA.{/magenta}\n2. {magenta}Secured Global Rank 300/19,600 in CodeChef Starters 184 (Rated){/magenta} \n3. {magenta}Reached a maximum rating of 1260 (Pupil) on Codeforces and 1750+ on LeetCode{/magenta}"
+      },
+      "education.txt": {
+        "type": "file",
+        "content": "INSTITUTION : {green}IIIT Bhopal{/green} (Indian Institute of Information Technology)\nDEGREE      : B.Tech in Computer Science and Engineering\n What GPT-Astra? I never noticed it! As AI is taking away jobs of field workers I belive this is the safest course I could ever bet upon. \nSo I did. And look how happy I am ... Look🥹 \nDURATION    : {cyan}2024 - 2028{/cyan}\n Goal is to be placed till then !!😤"
+      },
+      "certifications.txt": {
+        "type": "file",
+        "content": "• Codeforces Pupil Rating Rank\n• Smart India Hackathon National Finalist"
+      }
+    }
+  }
+}

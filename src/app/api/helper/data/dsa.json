@@ -1,0 +1,23 @@
+{
+  "dsa": {
+    "data": {
+      "problems_solved": "1000+",
+      "codeforces": {
+        "rating": 1260,
+        "rank": "Pupil"
+      },
+      "leetcode": {
+        "rating": "1766+",
+        "biweekly_contest_rank": "Global Rank 2500",
+        "contest_percentile": "Top 9%"
+      },
+      "codechef": {
+        "rating": 1515,
+        "contest_achievement": "Global Rank 300/19,600 in CodeChef Starters 184"
+      },
+      "strengths": ["Data Structures and Algorithms"]
+    },
+    "note": "Ishan actively participates in competitive programming and has solved 1000+ DSA problems across Codeforces, LeetCode, and CodeChef.",
+    "guidance": "Use only the statistics explicitly provided here. Do not invent current ratings, ranks, problem counts, or additional competitive programming achievements."
+  }
+}

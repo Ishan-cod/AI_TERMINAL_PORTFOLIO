@@ -1,0 +1,17 @@
+[
+  ["sudo", "[super do]", "Get super user access, change the system"],
+  ["/ai [message]", "[AI RES]", "Get answers from AI bot"],
+  ["ls", "[dir]", "List directory contents"],
+  ["cd", "[dir]", "Change directory"],
+  ["cat", "[file]", "Print file content"],
+  ["blogs", "[file]", "List and read tech articles & blogs"],
+  ["pwd", "", "Print working directory"],
+  ["clear", "", "Clear the terminal"],
+  ["neofetch", "", "Display system info"],
+  ["whoami", "", "Display current user"],
+  ["reboot", "", "Restart the system"],
+  ["poweroff", "", "Turn off the system"],
+  ["logout", "", "End session"],
+  ["theme", "[name]", "Change theme (matrix, dracula, cyberpunk, nord)"],
+  ["sound", "[on|off]", "Toggle mechanical typing SFX"]
+]

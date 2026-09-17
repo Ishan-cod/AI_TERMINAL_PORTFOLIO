@@ -1,0 +1,26 @@
+{
+  "about": {
+    "name": "Ishan Kumar Jaiswal",
+    "role": "Computer Science undergraduate",
+    "institution": "Indian Institute of Information Technology, Bhopal",
+    "degree": "B.Tech in Computer Science and Engineering",
+    "cgpa": "9.14/10",
+    "summary": "Computer Science undergraduate focused on building GenAI-powered full-stack systems and solving Data Structures and Algorithms problems.",
+    "focus_areas": [
+      "Full-Stack Development",
+      "Generative AI",
+      "Backend Systems",
+      "Data Structures and Algorithms",
+      "Competitive Programming"
+    ],
+    "highlights": [
+      "Built and deployed multiple full-stack and GenAI applications",
+      "Built Error-Battle, a real-time competitive programming platform with 100+ unique users",
+      "Built Neer-Mitra for Smart India Hackathon using INGRES data and GenAI",
+      "Solved 700+ DSA problems across competitive programming platforms",
+      "Reached Pupil on Codeforces and 1700+ on LeetCode",
+      "Among the top 3 students in the batch academically"
+    ]
+  },
+  "guidance": "Use this information for broad questions about Ishan as a person, student, developer, or overall technical profile. Do not invent information beyond the provided data."
+}
