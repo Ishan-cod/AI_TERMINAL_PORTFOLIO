@@ -15,7 +15,7 @@ export function TerminalInput({
 
   return (
     <div
-      className={`w-full max-w-5xl mx-auto mt-4 pt-2 border-0 ${theme.border}`}
+      className={`w-full max-w-5xl mx-auto mt-2 pt-2 border-0 ${theme.border}`}
     >
       <div className="flex flex-col">
         <div className="flex items-center gap-2 flex-wrap">
@@ -93,7 +93,7 @@ export function TerminalInput({
                 onKeyDown={handleKeyDown}
                 className="w-full bg-transparent outline-none font-mono text-sm z-10"
                 style={{ color: ANSI.white, caretColor: ANSI.green }}
-                placeholder="Type command or press Tab..."
+                placeholder="Type help to know commands available"
                 autoFocus
               />
               {suggestion && (
