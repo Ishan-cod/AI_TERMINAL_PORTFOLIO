@@ -57,7 +57,9 @@ export function NEOFETCH({ themeName = "matrix" }) {
             <span className="font-bold" style={{ color: ANSI.orange }}>
               Role:
             </span>{" "}
-            <span style={{ color: ANSI.white }}>undergrad Computer science</span>
+            <span style={{ color: ANSI.white }}>
+              undergrad Computer science
+            </span>
           </p>
 
           <p>
@@ -79,7 +81,8 @@ export function NEOFETCH({ themeName = "matrix" }) {
               Skills:
             </span>{" "}
             <span style={{ color: ANSI.white }}>
-              C++, Python, JavaScript, React, Next.js
+              JavaScript, ExpressJS, NodeJS, NextJS, C++, ReactJS, Socket.io,
+              Python, Machine Learning
             </span>
           </p>
 
@@ -87,21 +90,25 @@ export function NEOFETCH({ themeName = "matrix" }) {
             <span className="font-bold" style={{ color: ANSI.orange }}>
               Projects:
             </span>{" "}
-            <span style={{ color: ANSI.white }}>Errorbattle, TTS voice detector SDK, NeerMitra</span>
+            <span style={{ color: ANSI.white }}>
+              Errorbattle, TTS voice detector SDK, NeerMitra
+            </span>
           </p>
 
           <p>
             <span className="font-bold" style={{ color: ANSI.orange }}>
-              Shell:
+              OS [system]:
             </span>{" "}
-            <span style={{ color: ANSI.white }}>zsh 5.9</span>
+            <span style={{ color: ANSI.white }}>{navigator.platform}</span>
           </p>
 
           <p>
             <span className="font-bold" style={{ color: ANSI.orange }}>
-              Resolution:
+              Resolution [system] :
             </span>{" "}
-            <span style={{ color: ANSI.white }}>1920x1080</span>
+            <span style={{ color: ANSI.white }}>
+              {screen.width}x{screen.height}
+            </span>
           </p>
 
           <p>
@@ -111,25 +118,15 @@ export function NEOFETCH({ themeName = "matrix" }) {
             <span style={{ color: ANSI.green }}>{themeName}</span>
           </p>
 
-          <p>
-            <span className="font-bold" style={{ color: ANSI.orange }}>
-              Terminal:
-            </span>{" "}
-            <span style={{ color: ANSI.white }}>Web-TTY</span>
-          </p>
+
 
           <p>
             <span className="font-bold" style={{ color: ANSI.orange }}>
-              CPU:
+              Memory [system]:
             </span>{" "}
-            <span style={{ color: ANSI.white }}>Intel i5 12th Gen H</span>
-          </p>
-
-          <p>
-            <span className="font-bold" style={{ color: ANSI.orange }}>
-              Memory:
-            </span>{" "}
-            <span style={{ color: ANSI.white }}>16 GB RAM</span>
+            <span style={{ color: ANSI.white }}>
+              {navigator.deviceMemory} GB
+            </span>
           </p>
         </div>
 

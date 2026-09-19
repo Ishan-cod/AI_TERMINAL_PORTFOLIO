@@ -45,15 +45,13 @@ export default function Page() {
             +
           </span>
 
-          <div className="w-[2px] flex-1 bg-[#c844af] opacity-80" />
+          <div className="w-[2px] flex-1 bg-[#244130] opacity-80" />
 
-          {/* Bottom ASCII Corner Cap */}
           <span className="font-mono text-[10px] text-[#8be9fd] select-none">
             +
           </span>
         </div>
 
-        {/* 3D ID Card Container */}
         <div
           className={`w-full md:w-[450px] lg:w-[500px] h-full ${
             activeTab === "card" ? "block" : "hidden md:block"

@@ -44,7 +44,7 @@ const CARD_CONFIG = {
     github: "github.com/Ishan-cod",
     linkedin: "www.linkedin.com/in/ishan-jaiswal-178b71313",
     website: "localhost:3000",
-    avatarUrl: "/rem_child.jpg",
+    avatarUrl: "/minecraftlike.png",
   },
 
   theme: {
@@ -52,7 +52,7 @@ const CARD_CONFIG = {
     colors: {
       bg: "#0c0e12",
       dim: "#181b20",
-      primary: "#ff79c6",
+      primary: "#e0af68",
       accent: "#50fa7b",
       secondary: "#8be9fd",
       text: "#f8f8f2",
